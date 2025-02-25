@@ -27,7 +27,7 @@
 ![](images/crypto-article_06.png)
 - Также можно рассмотреть показатели валидатора детальнее
 ## Как делегировать токены через Keplr
-- Открываем Keplr и выбираем “Manage Portfolio in Keplr Dashboard”
+- Открываем Keplr и выбираем “Manage Portfolio in Keplr Dashboard”  
 ![](images/crypto-article_07.png)
 - Нас переносит панель управления, где уже переходим на вкладку Staking и жмем кнопку Stake
 ![](images/crypto-article_08.png)
