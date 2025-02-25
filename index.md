@@ -9,6 +9,41 @@
 [posthumanchat](https://t.me/posthumanchat)  
 [posthumannews](https://t.me/posthumannews)  
 [Crypto_Base_Chat](https://t.me/Crypto_Base_Chat)
+## Как проверить параметры валидатора
+Можно воспользоваться Mintscan:
+- В строке поиска выбираем интересующую нас сеть
+![](images/crypto-article_02.png)
+- Для примера выберем COSMOS
+![](images/crypto-article_03.png)
+- В открывшемся окне выбираем вкладку VALIDATORS
+![](images/crypto-article_04.png)
+- Ищем интересующего нас валидатора, рассмотрим на примере POSTHUMAN
+![](images/crypto-article_05.png)
+- Как правило, хорошими показателями для выбора валидатора считается:
+1. Commission — 5%
+2. Miss Block — 0
+3. Uptime — 100%
+Как видим валидатор POSTHUMAN соответствует данным критериям
+![](images/crypto-article_06.png)
+- Также можно рассмотреть показатели валидатора детальнее
+## Как делегировать токены через Keplr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
