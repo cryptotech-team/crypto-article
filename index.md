@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
 # Posthuman Validator: Децентрализованное будущее стейкинга
 ![](images/crypto-article_01.png)
 ## Введение
