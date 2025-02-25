@@ -8,9 +8,7 @@
 - Поддержка сообщества: Разработчики активно взаимодействуют с пользователями и развивают проект.
 
 [posthumanchat](https://t.me/posthumanchat)
-
 [posthumannews](https://t.me/posthumannews)
-
 [Crypto_Base_Chat](https://t.me/Crypto_Base_Chat)
 
 
