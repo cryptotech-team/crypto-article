@@ -5,10 +5,9 @@
 ## Почему стоит выбрать Posthuman Validator?
 - Надежность: Валидатор работает стабильно, обеспечивая бесперебойную работу сети.
 - Прозрачность: Информация о ноде доступна на таких платформах, как [Mintscan](https://www.mintscan.io/).
-- Поддержка сообщества: Разработчики активно взаимодействуют с пользователями и развивают проект.
-
-[posthumanchat](https://t.me/posthumanchat)
-[posthumannews](https://t.me/posthumannews)
+- Поддержка сообщества: Разработчики активно взаимодействуют с пользователями и развивают проект.  
+[posthumanchat](https://t.me/posthumanchat)  
+[posthumannews](https://t.me/posthumannews)  
 [Crypto_Base_Chat](https://t.me/Crypto_Base_Chat)
 
 
