@@ -1,6 +1,10 @@
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
+---
+title: "Posthuman Validator: Децентрализованное будущее стейкинга"
+layout: default
+---
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
 # Posthuman Validator: Децентрализованное будущее стейкинга
 ![](images/crypto-article_01.png)
 ## Введение
